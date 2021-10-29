@@ -244,7 +244,7 @@ if __name__ == "__main__":
             jokes()
 
         elif 'to do' in query:
-            speak("You have to do the following tasks; 2 videos of Physics wallah, then the social science work of federalism and agriculture and then you have to work on the ssc project!!")
+            speak("")
 
         elif 'find location' in query:
             search_term = query.replace("search","")
